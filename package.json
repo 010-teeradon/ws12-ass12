@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "0012",
+=======
+  "name": "ws12_1",
+>>>>>>> a636822ef0cad292c6bcf5cf7ad75a8698b16b0c
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
