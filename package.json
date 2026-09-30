@@ -1,8 +1,20 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "better-sqlite3": "^13.0.3"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^9.6.0"
+=======
+<<<<<<< HEAD
+  "name": "0012",
+=======
+  "name": "ws12_1",
+>>>>>>> a636822ef0cad292c6bcf5cf7ad75a8698b16b0c
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^11.0.0"
+>>>>>>> 2ac84acacac327b8dbfb167344d30e833eff13fd
   }
 }
