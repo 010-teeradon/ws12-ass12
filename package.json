@@ -1,0 +1,8 @@
+{
+  "name": "ws12_1",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^11.0.0"
+  }
+}
